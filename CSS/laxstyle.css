@@ -120,7 +120,12 @@ a:active{
 
 table, th, td {
   border: 1px solid;
+}
 
+.boardtable {
+  display: flex;
+  justify-content: center;
+  align-content: center;
 }
 
 
