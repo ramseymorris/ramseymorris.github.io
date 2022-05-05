@@ -122,8 +122,10 @@ table, th, td {
   border: 1px solid;
 }
 
-.eboard{
-  margin-left: 5px;
+.etable {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .background {
