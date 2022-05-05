@@ -124,8 +124,8 @@ table, th, td {
 
 .etable {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  align-items: center;
+  justify-content: center;
 }
 
 .background {
