@@ -43,11 +43,11 @@ main {
 }
 
 .resize2 {
-  width: 400px;
+  width: 500px;
   height: auto;
   display: flex;
-  align-items: start;
-  justify-content: left;
+  align-items: center;
+  justify-content: center;
 }
 
 .resize3 {
