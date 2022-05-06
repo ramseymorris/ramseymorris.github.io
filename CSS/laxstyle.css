@@ -45,6 +45,9 @@ main {
 .resize2 {
   width: 400px;
   height: auto;
+  display: flex;
+  align-items: start;
+  justify-content: left;
 }
 
 .resize3 {
