@@ -124,13 +124,6 @@ table, th, td {
   border: 1px solid;
 }
 
-.board {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  border: 0px;
-}
-
 .background {
   background-image: linear-gradient(rgb(0, 60, 40),rgb(200,200,200),rgb(225,225,225),rgb(250,250,250),rgb(275,275,275));
 }
