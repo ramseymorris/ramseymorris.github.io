@@ -45,6 +45,9 @@ main {
 .resize2 {
   width: 400px;
   height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .resize3 {
@@ -111,7 +114,6 @@ a:visited{
 
 a:hover{
   color: rgb(0, 60, 40);
-
 }
 
 a:active{
@@ -120,12 +122,6 @@ a:active{
 
 table, th, td {
   border: 1px solid;
-}
-
-.eboard {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .background {
