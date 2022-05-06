@@ -126,7 +126,7 @@ table, th, td {
 
 .board {
   display: block;
-  margin-left: 25px;
+  margin-left: 10px;
   margin-right: auto;
   border: 1px solid;
 }
